@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Priyanshu  <br>🎓 IT Student  <br>💻 Learning DSA & Web Development  <br><br>🚀 Interests:<br>- Backend Development  <br>- Open Source Contributions  <br>- System Design  <br>- Cloud Computing  <br>- Data Science & Analytics  <br>- artificial intelligence & machine learning<br><br>🛠 Currently Exploring:<br>- Data Structures & Algorithms  <br>- Backend frameworks  <br>- Basics of Cloud platforms (AWS/GCP)  <br>- Data handling, visualization & Python for Data Science  <br><br>🎯 Goal:<br>To build scalable, real-world software solutions and grow as a strong software engineer.<br>
+Hi 👋 I'm Priyanshu  <br>🎓 IT Student  <br>💻 Learning DSA & Web Development  <br><br>🚀 Interests:<br>- Backend Development  <br>- Open Source Contributions  <br>- System Design  <br>- Cloud Computing  <br>- Data Science & Analytics  <br>- Artificial intelligence & Machine learning<br><br>🛠 Currently Exploring:<br>- Data Structures & Algorithms  <br>- Backend frameworks  <br>- Basics of Cloud platforms (AWS/GCP)  <br>- Data handling, visualization & Python for Data Science  <br><br>🎯 Goal:<br>To build scalable, real-world software solutions and grow as a strong software engineer.<br>
 
 
 ## 🌐 Socials:
